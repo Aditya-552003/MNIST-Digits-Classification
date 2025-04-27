@@ -5,9 +5,9 @@ It involves building and training a neural network model to classify digits (0â€
 ## Project Overview
 * Dataset: MNIST Handwritten Digits Dataset
 
-* Framework: TensorFlow / Keras (or whichever you used)
+* Framework: TensorFlow / Keras 
 
-* Model Type: Convolutional Neural Network (CNN) / Dense Neural Network (please confirm)
+* Model Type: Convolutional Neural Network (CNN) / Dense Neural Network 
 
 * Objective: Classify handwritten digit images into their respective numeric classes.
 
